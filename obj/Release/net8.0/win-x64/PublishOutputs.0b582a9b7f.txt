@@ -1,4 +1,0 @@
-E:\project-c#\MyHardwareMonitor\bin\Release\net8.0\win-x64\publish\MyHardwareMonitor.pdb
-E:\project-c#\MyHardwareMonitor\bin\Release\net8.0\win-x64\publish\MonoPosixHelper.dll
-E:\project-c#\MyHardwareMonitor\bin\Release\net8.0\win-x64\publish\libMonoPosixHelper.dll
-E:\project-c#\MyHardwareMonitor\bin\Release\net8.0\win-x64\publish\MyHardwareMonitor.exe
