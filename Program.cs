@@ -74,6 +74,7 @@ class Program
                     list.Add(new
                     {
                         Hardware = hardware.Name,
+                        HardwareType =  Enum.GetName(typeof(HardwareType), hardware.HardwareType),
                         Sensor = sensor.Name,
                         Type = sensor.SensorType.ToString(),
                         Value = sensor.Value ?? 0
@@ -85,6 +86,7 @@ class Program
                 list.Add(new
                 {
                     Hardware = hardware.Name,
+                    HardwareType = Enum.GetName(typeof(HardwareType), hardware.HardwareType),
                     Sensor = sensor.Name,
                     Type = sensor.SensorType.ToString(),
                     Value = sensor.Value ?? 0
